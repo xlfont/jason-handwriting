@@ -1,0 +1,36 @@
+- name: JasonHandwriting1
+  displayname: 清松手寫體1
+  category: handwriting
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/JasonHandwriting1
+        codes: 11014
+        weight: 400
+        xfl: true
+- name: JasonHandwriting2
+  displayname: 清松手寫體2
+  category: handwriting
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/JasonHandwriting2
+        codes: 7212
+        weight: 400
+        xfl: true
+- name: JasonHandwriting4
+  displayname: 清松手寫體4
+  category: handwriting
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/JasonHandwriting4
+        codes: 5291
+        weight: 400
+        xfl: true
